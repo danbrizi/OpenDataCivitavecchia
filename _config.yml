@@ -1,19 +1,19 @@
-title: OpendataGentediPrato
-greeting: Benvenuto su OpendataGentediPrato
-description: Un semplice portale di dati dalla gente di Prato per la gente di Prato.
-baseurl: /opendatagentediprato
+title: OpenDataCivitavecchia
+greeting: Benvenuto su OpenDataCivitavecchia
+description: Un semplice portale di dati per la gente di Prato.
+baseurl: /opendatacivitavecchia
 logo: /img/jkan.png
 
 # Site theme
 theme: Default
 
 # Authentication
-github_client_id: 94d5c2c76b1847f79b29
-gatekeeper_host: https://opendatagentediprato.herokuapp.com
+#github_client_id: 94d5c2c76b1847f79b29
+#gatekeeper_host: https://opendatagentediprato.herokuapp.com
 
 #Social Links
-facebook-page: https://www.facebook.com/Opendata-Gente-di-Prato-996274160459781/
-twitter: https://twitter.com/odgentediprato
+#facebook-page: https://www.facebook.com/Opendata-Gente-di-Prato-996274160459781/
+#twitter: https://twitter.com/odgentediprato
 
 # Dataset schema
 schema: opendataschema
@@ -59,28 +59,28 @@ kramdown:
   input: GFM
 
 # Google Analytics
-google_analytics:
-  enabled: true
-  code: "UA-47474515-2"
+#google_analytics:
+#  enabled: true
+#  code: "UA-47474515-2"
 
 # US Digital Analytics Program - https://analytics.usa.gov
-digital_analytics_program:
-  enabled: false
-  agency: ""
-  subagency: ""
+#digital_analytics_program:
+#  enabled: false
+#  agency: ""
+#  subagency: ""
 
 # Hypothesis.io - Annotator
-hypothesis:
-  enabled: false
+#hypothesis:
+#  enabled: false
 
 # Twitter
-twittercard:
-  enabled: true
-  username: "@odgentediprato"
+#twittercard:
+#  enabled: true
+#  username: "@odgentediprato"
 
 #Disqus
-disqus_shortname: ilTempe
-comments_enabled: true
+#disqus_shortname: odcv
+#comments_enabled: true
 
 # Open Graph
 opengraph:
